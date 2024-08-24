@@ -1,24 +1,15 @@
 import 'dart:io';
-
-
-
 import 'package:taxi_schedule_driver/new_utils/Demo_Localization.dart';
 import 'package:taxi_schedule_driver/new_utils/colors.dart';
 import 'package:taxi_schedule_driver/new_utils/common_ui.dart';
 import 'package:taxi_schedule_driver/new_utils/constant.dart';
 import 'package:taxi_schedule_driver/new_utils/routes.dart';
 import 'package:taxi_schedule_driver/new_utils/ui.dart';
-
 import 'package:firebase_core/firebase_core.dart';
-
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-
 import 'package:flutter_localizations/flutter_localizations.dart';
-
-
-
 import 'package:wakelock_plus/wakelock_plus.dart';
 
 

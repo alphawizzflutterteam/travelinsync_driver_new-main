@@ -3,7 +3,7 @@ description: A new Flutter application.
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
-version: 1.0.4+5
+version: 1.0.4+6
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
@@ -20,9 +20,7 @@ dependencies:
   firebase_core: ^2.1.0
   firebase_messaging: ^14.7.8
   firebase_auth: ^4.7.2
-
   cupertino_icons: ^1.0.3
-
   shared_preferences: ^2.0.5
   #animation_wrappers: 0.0.2
   location: ^5.0.3
@@ -31,8 +29,6 @@ dependencies:
   google_maps_place_picker_mb: ^3.1.2
   google_maps_flutter: ^2.0.6
   flutter_polyline_points: ^2.0.0
-
-
   image_picker_gallery_camera: ^0.2.2
   connectivity_plus: ^5.0.2
   path_provider: ^2.0.2
